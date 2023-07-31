@@ -1,5 +1,12 @@
 ## Hey, wenyuhao here! :wave:
 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=wenyuhaokikika&theme=dark&show_icons=true">
+    <img align="right" width="50%" height=140 src="https://github-readme-stats-ouuan.vercel.app/api?username=wenyuhaokikika&show_icons=true">
+</picture>
+
+生信小菜鸟一枚
+
 -   :hammer_and_pick: Python / Rust / snakemake / Vue
 -   :thought_balloon: Ask me anything at [Discussions](https://github.com/wenyuhaokikika/wenyuhaokikika/discussions)!
 -   :heart: [Sponsor me](#) via [Weixin](https://github.com/wenyuhaokikika/wenyuhaokikika/blob/gh-pages/img/wechat_donate.jpg) / [Alipay](#) / [ko-fi.com](#)
